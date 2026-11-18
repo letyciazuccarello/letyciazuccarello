@@ -1,16 +1,41 @@
-## Hi there 👋
+# Letycia Zuccarello
 
-<!--
-**letyciazuccarello/letyciazuccarello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Ciência da Computação (UVA) · Buscando estágio em TI: cibersegurança, suporte, dados, automação, IA ou QA**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/letyciazuccarello)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Curso Ciência da Computação na Universidade Veiga de Almeida, no Rio de Janeiro, com formatura prevista para 2028.
+Hoje sou Jovem Aprendiz no administrativo da TB Rio Elevadores. Lá apoio a gestão de frota com as plataformas das locadoras e controles em Excel.
+
+Gosto de organizar processos e de usar tecnologia para facilitar o dia a dia. Por isso, meus primeiros projetos são de automação e de ferramentas de estudo.
+
+## Projeto em destaque
+
+### [Zucca Study OS](https://github.com/letyciazuccarello/zucca-study-os) · [ver o site](https://letyciazuccarello.github.io/zucca-study-os/)
+
+Site de estudos que criei com apoio de IA generativa (Claude) para organizar matérias, trabalhos e provas da faculdade e para apoiar meu aprendizado, inclusive no inglês.
+
+- Pomodoro por matéria e flashcards com revisão espaçada
+- Cronograma da semana, metas e contagem regressiva para as provas
+
+`HTML` `IA generativa` `GitHub Pages`
+
+## Outros projetos
+
+- **Proposta de controle de multas da frota:** no meu trabalho, mapeei como as multas dos veículos próprios e alugados chegavam e eram tratadas e propus à gestão um fluxo único: e-mail de recebimento, planilha com os prazos de identificação do condutor e de pagamento e arquivo digital, para evitar perda de prazos e multas em dobro.
+- **Automação de atendimento para um escritório de contabilidade:** criei as páginas no Instagram e no Facebook e o perfil no WhatsApp Business, com catálogo de serviços, e configurei respostas automáticas com ManyChat e Meta Business Suite.
+- **Testes (QA) de uma plataforma de estudos em desenvolvimento:** testo no celular e no computador e relato defeitos e sugestões de melhoria.
+
+## Ferramentas
+
+![Pacote Office](https://img.shields.io/badge/Pacote_Office-D83B01?style=flat-square) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_%28IA%29-D97757?style=flat-square&logo=claude&logoColor=white) ![ManyChat](https://img.shields.io/badge/ManyChat-0084FF?style=flat-square) ![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0467DF?style=flat-square&logo=meta&logoColor=white) ![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+
+## Aprendendo agora
+
+Na faculdade: lógica de programação, Python, Java, C, C++, C#, SQL e banco de dados (nível iniciante) · HTML · Inglês
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/letyciazuccarello)
