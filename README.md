@@ -1,12 +1,13 @@
 # Letycia Zuccarello
 
-**Estudante de Ciência da Computação (UVA) · Buscando estágio em TI: cibersegurança, suporte, dados, automação, IA ou QA**
+**Estudante de Ciência da Computação (UVA) · Estágio em TI: cibersegurança, suporte, sistemas, dados e IA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/letyciazuccarello)
 
 ## Sobre mim
 
 Curso Ciência da Computação na Universidade Veiga de Almeida, no Rio de Janeiro, com formatura prevista para 2028.
+Busco estágio em TI e tenho interesse em segurança da informação e cibersegurança, suporte, sistemas, dados, automação e inteligência artificial.
 Hoje sou Jovem Aprendiz no administrativo da TB Rio Elevadores. Lá apoio a gestão de frota com as plataformas das locadoras e controles em Excel.
 
 Gosto de organizar processos e de usar tecnologia para facilitar o dia a dia. Por isso, meus primeiros projetos são de automação e de ferramentas de estudo.
