@@ -1,6 +1,6 @@
 # Letycia Zuccarello
 
-**Estudante de Ciência da Computação (UVA) · Estágio em TI: cibersegurança, suporte, sistemas, dados e IA**
+**Estudante de Ciência da Computação (UVA) · Em busca de estágio em TI: cibersegurança, suporte, sistemas, dados e IA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/letyciazuccarello)
 
