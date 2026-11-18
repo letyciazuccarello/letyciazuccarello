@@ -26,7 +26,7 @@ Site de estudos que criei com apoio de IA generativa (Claude) para organizar mat
 
 - **Proposta de controle de multas da frota:** no meu trabalho, mapeei como as multas dos veículos próprios e alugados chegavam e eram tratadas e propus à gestão um fluxo único: e-mail de recebimento, planilha com os prazos de identificação do condutor e de pagamento e arquivo digital, para evitar perda de prazos e multas em dobro.
 - **Automação de atendimento para um escritório de contabilidade:** criei as páginas no Instagram e no Facebook e o perfil no WhatsApp Business, com catálogo de serviços, e configurei respostas automáticas com ManyChat e Meta Business Suite.
-- **Repaso, plataforma de estudos (em desenvolvimento, em parceria):** participo das ideias do produto e acompanho todo o desenvolvimento. Corrijo erros e faço ajustes no código, uso o Supabase para aplicar códigos e controlar os dados e faço os testes no celular e no computador (QA).
+- **Repaso, plataforma de estudos (em desenvolvimento, em parceria):** participo das ideias do produto e acompanho todo o desenvolvimento. Corrijo erros e faço ajustes no código com apoio de IA, uso SQL no Supabase para aplicar mudanças e controlar os dados e faço os testes no celular e no computador (QA).
 
 ## Ferramentas
 
